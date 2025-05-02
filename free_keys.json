@@ -3,7 +3,7 @@
     {
       "key": "KTT8133449149",
       "key_type": "free",
-      "status": "used",
+      "status": "deleted",
       "device_id": "33dc4e4d-e91c-493e-a796-16b52d08a98f",
       "shortened_urls": [
         "https://shrinkme.ink/xxZAqd"
@@ -11,9 +11,11 @@
       "created_at": "2025-05-02T18:06:44.781056+07:00",
       "expiration_date": "2025-05-03T18:06:38.555537+07:00",
       "duration_minutes": 1440,
-      "is_active": true,
-      "disabled": false
+      "is_active": false,
+      "disabled": true
     }
   ],
-  "blacklisted_devices": []
+  "blacklisted_devices": [
+    "33dc4e4d-e91c-493e-a796-16b52d08a98f"
+  ]
 }
