@@ -405,6 +405,20 @@
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
+    },
+    {
+      "key": "SCV10805569741",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "ca055ab6-9aa7-4e11-be64-42e5bdc56247",
+      "shortened_urls": [
+        "https://shrinkme.ink/ZX90IP49"
+      ],
+      "created_at": "2025-05-03T16:43:32.907736+07:00",
+      "expiration_date": "2025-05-04T16:43:27.355504+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
     }
   ],
   "blacklisted_devices": [
