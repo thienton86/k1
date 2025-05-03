@@ -335,6 +335,20 @@
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
+    },
+    {
+      "key": "SCV10804",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "SERfNTdlMTU0ZTc4OWRkZThjYzAxNGNiMjY=",
+      "shortened_urls": [
+        "https://shrinkme.ink/koVe"
+      ],
+      "created_at": "2025-05-03T14:11:39.710482+07:00",
+      "expiration_date": "2025-05-04T14:11:34.640153+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
     }
   ],
   "blacklisted_devices": [
