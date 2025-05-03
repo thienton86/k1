@@ -366,6 +366,7 @@
     }
   ],
   "blacklisted_devices": [
-    "33dc4e4d-e91c-493e-16b52d08a98f"
+    "33dc4e4d-e91c-493e-16b52d08a98f",
+    "33dc4e4d-e1c-49e-a79-1bd0a98f"
   ]
 }
