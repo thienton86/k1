@@ -601,6 +601,20 @@
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
+    },
+    {
+      "key": "SCV13555050314",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "a5ad50f5-03e1-41ff-bf25-57463f42b63f",
+      "shortened_urls": [
+        "https://shrinkme.ink/Zucct"
+      ],
+      "created_at": "2025-05-04T14:53:58.431703+07:00",
+      "expiration_date": "2025-05-05T14:53:53.181752+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
     }
   ],
   "blacklisted_devices": [
