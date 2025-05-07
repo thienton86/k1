@@ -1046,16 +1046,16 @@
       "disabled": false
     },
     {
-      "key": "SCV21603261943",
+      "key": "SCV21610055220",
       "key_type": "free",
       "status": "used",
-      "device_id": "0f3af2c6-1db9-439e-ba0c-3ead2bf5b485",
+      "device_id": "100552db-dd20-4cfa-a93a-5ee4cb4af976",
       "shortened_urls": [
-        "https://shrinkme.ink/PqU5ou",
-        "https://link2m.com/FV0l67s"
+        "https://shrinkme.ink/Izvu72H",
+        "https://link2m.com/SzBkL"
       ],
-      "created_at": "2025-05-07T13:00:33.732101+07:00",
-      "expiration_date": "2025-05-08T13:00:28.365838+07:00",
+      "created_at": "2025-05-07T13:01:58.097643+07:00",
+      "expiration_date": "2025-05-08T13:01:52.789058+07:00",
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
