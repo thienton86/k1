@@ -1242,16 +1242,16 @@
       "disabled": false
     },
     {
-      "key": "SCV2970",
+      "key": "SCV29721424243",
       "key_type": "free",
       "status": "used",
-      "device_id": "SERfODkzYjM0ODEyYWNkYThjODZjYTljMzA=",
+      "device_id": "SERfN2E1YTI4N2JiYTNlZmM4N2I4YTM3YTE=",
       "shortened_urls": [
-        "https://shrinkme.ink/Vw9S",
-        "https://link2m.com/VDxaPTX"
+        "https://shrinkme.ink/xkzfH41",
+        "https://link2m.com/EnmOcLut"
       ],
-      "created_at": "2025-05-10T18:21:24.457599+07:00",
-      "expiration_date": "2025-05-11T18:21:19.238112+07:00",
+      "created_at": "2025-05-10T18:22:49.887077+07:00",
+      "expiration_date": "2025-05-11T18:22:44.919658+07:00",
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
