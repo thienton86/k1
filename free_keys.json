@@ -1270,6 +1270,21 @@
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
+    },
+    {
+      "key": "SCV2973",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "SERfMDdmMjRjNTFkNGJlNzE3NjQzZWExNDM=",
+      "shortened_urls": [
+        "https://shrinkme.ink/EXF3",
+        "https://link2m.com/iL75V"
+      ],
+      "created_at": "2025-05-10T19:18:09.971177+07:00",
+      "expiration_date": "2025-05-11T19:18:04.578098+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
     }
   ],
   "blacklisted_devices": [
