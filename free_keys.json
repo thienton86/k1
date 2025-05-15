@@ -1859,6 +1859,21 @@
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
+    },
+    {
+      "key": "SCV43200",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "SERfMmIzMjliZDhiOWYwYWM0MTQwZmU0ZDg=",
+      "shortened_urls": [
+        "https://shrinkme.ink/lvXP4t",
+        "https://link2m.com/Qtxs5"
+      ],
+      "created_at": "2025-05-16T00:06:05.304715+07:00",
+      "expiration_date": "2025-05-17T00:06:00.201682+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
     }
   ],
   "blacklisted_devices": [
