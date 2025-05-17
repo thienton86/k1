@@ -2024,6 +2024,21 @@
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
+    },
+    {
+      "key": "SCV51390795490",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "90e7f9af-a5fe-4900-afae-22b154ef8206",
+      "shortened_urls": [
+        "https://shrinkme.ink/DyJc",
+        "https://link2m.com/PaCvX"
+      ],
+      "created_at": "2025-05-18T03:33:20.124148+07:00",
+      "expiration_date": "2025-05-19T03:33:15.179186+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
     }
   ],
   "blacklisted_devices": [
