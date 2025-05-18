@@ -2101,16 +2101,16 @@
       "disabled": false
     },
     {
-      "key": "SCV51397819487",
+      "key": "SCV51397297639",
       "key_type": "free",
       "status": "used",
-      "device_id": "97f81afa-9ccf-487f-bdaa-86e9ddb0d858",
+      "device_id": "972976b3-f922-45c5-8f68-ed343af6b82b",
       "shortened_urls": [
-        "https://shrinkme.ink/p1qBl",
-        "https://link2m.com/ydNG9R"
+        "https://shrinkme.ink/c9q5B3",
+        "https://link2m.com/jlfYORt5"
       ],
-      "created_at": "2025-05-18T12:49:38.591329+07:00",
-      "expiration_date": "2025-05-19T12:49:33.471320+07:00",
+      "created_at": "2025-05-18T12:50:33.838837+07:00",
+      "expiration_date": "2025-05-19T12:50:28.746947+07:00",
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
