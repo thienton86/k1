@@ -2114,6 +2114,21 @@
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
+    },
+    {
+      "key": "SCV51324",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "SERfNjdmOThiODk2YWIzOTlhNTA4ZWYwZDA=",
+      "shortened_urls": [
+        "https://shrinkme.ink/StFpKI",
+        "https://link2m.com/eWocUoW"
+      ],
+      "created_at": "2025-05-18T15:05:01.315424+07:00",
+      "expiration_date": "2025-05-19T15:04:56.081986+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
     }
   ],
   "blacklisted_devices": [
